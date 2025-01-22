@@ -1,0 +1,14 @@
+# Comandos usados para criar o script e alterar as permissões:
+
+# 1. Navegar até a pasta do projeto:
+cd ~/projeto_ebac/projeto_calculadora
+
+# 2. Criar o arquivo .sh no editor:
+nano calculadora.sh
+
+# 3. Tornar o arquivo executável:
+chmod 754 calculadora.sh
+
+# 4. Executar o script:
+./calculadora.sh
+
